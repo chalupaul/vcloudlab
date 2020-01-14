@@ -24,4 +24,4 @@ virt-install \
   --graphics vnc,password=octolibations \
   --vcpus=1 \
   --ram=256 \
-  --name=esix
+  --name=esxi
